@@ -7,6 +7,12 @@ To run on your local machine clone the repo and type followig command on your te
 Here are some screenshots of it
 ## large Screen
 ![header-deskto](https://github.com/user-attachments/assets/13bb56d4-0a1a-4b88-b0aa-bec2b4817564)
+![Screenshot_2025-01-09_19-03-30](https://github.com/user-attachments/assets/04f796f4-6b7b-4c1b-a6db-b6769015e432)
+![Screenshot_2025-01-09_19-03-56](https://github.com/user-attachments/assets/e646482c-4884-4b58-accf-431bedd04fda)
+![Screenshot_2025-01-09_19-04-22](https://github.com/user-attachments/assets/6e20be8d-f905-4485-a161-64d5fa0d2a05)
+![Screenshot_2025-01-09_19-04-41](https://github.com/user-attachments/assets/c8db6655-420e-4448-9dc4-3e73be4d77f2)
+![Screenshot_2025-01-09_19-04-52](https://github.com/user-attachments/assets/0e90a60b-8f59-4b78-925d-48541baedda1)
+
 
 ## Mobile Devices
 ![header-mobile](https://github.com/user-attachments/assets/d20e9943-e916-4918-8dcd-7f95639417ad)
