@@ -11,9 +11,3 @@ Here are some screenshots of it
 ![Screenshot_2025-01-09_19-04-22](https://github.com/user-attachments/assets/6e20be8d-f905-4485-a161-64d5fa0d2a05)
 ![Screenshot_2025-01-09_19-04-52](https://github.com/user-attachments/assets/0e90a60b-8f59-4b78-925d-48541baedda1)
 
-
-## Mobile Devices
-![header-mobile](https://github.com/user-attachments/assets/d20e9943-e916-4918-8dcd-7f95639417ad)
-
-
-![header-mobile2](https://github.com/user-attachments/assets/9af0be0b-18fb-4511-a66d-6964eae3a2ed)
